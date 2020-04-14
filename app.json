@@ -1,5 +1,5 @@
 {
-    "id": "com.sasteren.nos",
+    "id": "com.hendriksenremco.nos",
     "sdk": 2,
     "name": {
         "en": "NOS VideoStreams",
@@ -13,7 +13,7 @@
         "large": "assets/images/large.jpg",
         "small": "assets/images/small.jpg"
     },
-    "athomForumDiscussionId": 4106,	
+    "athomForumDiscussionId": 4106,
     "category": "video",
     "version": "1.2.0",
     "compatibility": ">=1.5.0",

@@ -1,6 +1,6 @@
 {
-  "name": "com.sasteren.nos",
-  "version": "1.1.0",
+  "name": "com.hendriksenremco.nos",
+  "version": "1.1.1",
   "description": "Fetches video URLs for NOS streams",
   "main": "app.js",
   "dependencies": {
@@ -12,6 +12,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Remcoo Hendriksen <info@remcohendriksen.nl> (https://www.remcohendriksen.nl)",
   "license": "ISC"
 }
