@@ -5,6 +5,9 @@ Fetches video URLs for NOS streams
 With this app there's tags with the URL's for the latest video-streams which can be used with Chromecast (cast a Video-URL).
 Since chromecast version 3.1.1 leading spaces are automatically deleted so dragging tags became easier.
 
+v 1.3.0 (14-04-2020):
+* Updated app to new NOS website structure
+
 v 1.2.0 (11-11-2018):
 * fixed bug 1 (lot of leading spaces were added by NOS
 * added NOS-sports-channels (there used to be a geo-filter, not anymore)
